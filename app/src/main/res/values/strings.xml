@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Ejercicio2</string>
+    <string name="btn_Web">Web</string>
+    <string name="btn_Lista_Simple">Lista simple</string>
+    <string name="btn_Lista_Compleja">Lista compleja</string>
+    <string name="btn_Lista_Muy_Compleja">Lista muy compleja</string>
+
+</resources>
